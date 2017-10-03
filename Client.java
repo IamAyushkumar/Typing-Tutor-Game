@@ -1,0 +1,11 @@
+package GameTypingTutor;
+
+public class Client {
+
+	public static void main(String[] args) {
+		
+		TypingTutor tt = new TypingTutor("An earthquake also known as a quake tremor or temblor is the shaking of the surface of the Earth,resulting from the sudden release of energy in the Earth lithosphere that creates seismic waves Earthquakes can range in size from those that are so weak that they cannot be felt to those violent enough to toss people around and destroy whole cities The seismicity or seismic activity of an area refers to the frequency type and size of earthquakes experienced over a period of time Earthquakes are measured using measurements from seismometers The moment magnitude is the most common scale on which earthquakes larger than approximately  are reported for the entire globe The more numerous earthquakes smaller than magnitude  reported by national seismological observatories are measured mostly on the local magnitude scale also referred to as the Richter magnitude scale These two scales are numerically similar over their range of validity Magnitude  or lower earthquakes are mostly imperceptible or weak and magnitude  and over potentially cause serious damage over larger areas depending on their depth The largest earthquakes in historic times have been of magnitude slightly over  although there is no limit to the possible magnitude Intensity of shaking is measured on the modified Mercalli scale The shallower an earthquake the more damage to structures it causes, all else being equal.[1]At the Earth's surface, earthquakes manifest themselves by shaking and sometimes displacement of the ground. When the epicenter of a large earthquake is located offshore, the seabed may be displaced sufficiently to cause a tsunami. Earthquakes can also trigger landslides, and occasionally volcanic activity.In its most general sense the word earthquake is used to describe any seismic event  whether natural or caused by humans  that generates seismic waves Earthquakes are caused mostly by rupture of geological faults but also by other events such as volcanic activity landslides mine blasts and nuclear tests An earthquake point of initial rupture is called its focus or hypocenter");
+
+	}
+
+}
